@@ -22,7 +22,7 @@ Small but intuitive example of a QR code component that is a good project for pr
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://andersonrodd.github.io/qr-code-component-main/)
+- Live Site URL: [Frontend Mentor - QR code component](https://andersonrodd.github.io/qr-code-component-main/)
 
 ## My process
 -Started building the base of the HTML with the CSS framework Bootstrap
